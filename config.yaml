@@ -12,7 +12,7 @@ pygmentsUseClasses: true
 ## Generic theme parameters:
 Params:
   author: "Cloud Huxley"
-  description: "Osprey Delight - Example Site"
+  description: "ClallamLGBT is a queer resource for the residents of Clallam County, Washington"
 
   # logoBig appears at the top of the page. Use a path relative to the assets dir for auto-resizing.
   logoBig: "osprey-delight.png"
@@ -44,13 +44,10 @@ Params:
     url: https://www.facebook.com/groups/194986311100961
   - type: facebook
     url: https://www.facebook.com/groups/LGBTQInThePNW
+  - type: facebook
+    url: https://www.facebook.com/groups/192408729447260
   - type: github
     url: https://github.com/clallamlgbt
-  - type: stackoverflow
-    url: ""
-  - type: spotify
-    url: https://open.spotify.com/artist/5NhBOdJh6T1tgtM5Au1Opl
-
 
 ## Theme features:
   Feat:
@@ -94,9 +91,9 @@ Menu:
       identifier: about # the identifier controls the section type (and therewith the appearence).
       url: "/#about"
       weight: 1
-    - name: "Work"
-      identifier: gallery
-      url: "/#work"
+    - name: "Resources"
+      identifier: resources
+      url: "/#resources"
       weight: 2
     - name: "Events"
       identifier: events
@@ -109,5 +106,5 @@ Menu:
     # Use icon here to back reference an external site:
     - pre: "<i class='icon icon-link-ext'></i>&nbsp;"
       name: ""
-      url: "https://pyotek.dev"
+      url: "https://huxley.cloud/"
       weight: 5
