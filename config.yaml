@@ -2,7 +2,7 @@ title: "Clallam|LGBTQIA2S+"
 baseURL: "https://clallam.lgbt"
 languageCode: "en-US"
 theme: "osprey-delight"
-tags: ["personal", "homepage", "portfolio"]
+tags: ["Clallam", "Pride"]
 #canonifyURLS: true
 #googleAnalytics: ""
 disableKinds: ["taxonomy", "taxonomyTerm"]
